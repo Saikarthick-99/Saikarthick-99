@@ -10,7 +10,7 @@ A Lead Unity Developer specializing in creating immersive AR/VR experiences and 
 
 
 
-💼 Leadership & Management
+💼 <b> Leadership & Management </b>
 
 As a Lead Developer in a fast-paced startup environment, I successfully guided and mentored a team of developers, overseeing the entire project lifecycle. My responsibilities included:
 
