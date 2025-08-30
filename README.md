@@ -96,13 +96,13 @@ With a background in both <b>hands-on development</b> and <b>team leadership</b>
 <!-- Featured Work section with underlined header and section separators -->
 <div align="center">
   <h3><b><u>🌟 Featured Work</u></b></h3>
-  <a href="https://your-artstation-link" target="_blank">
+  <a href="https://www.saikarthick.artstation.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ArtStation-blue?logo=artstation&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:sai.sankar54@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-red?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/saikarthick" target="_blank">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </div>
@@ -115,8 +115,8 @@ With a background in both <b>hands-on development</b> and <b>team leadership</b>
   <ul>
     <li>💬 <b>Ask me about:</b> Unity, Unreal Engine, multiplayer networking, or how to get started in VR/AR development!</li>
     <li>📧 <b>Email:</b> <a href="mailto:sai.sankar54@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="20" /> sai.sankar54@gmail.com</a></li>
-    <li>🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" /> LinkedIn Profile</a></li>
-    <li>🎨 <b>ArtStation:</b> <a href="https://www.artstation.com/your-artstation" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="20" /> My Portfolio</a></li>
+    <li>🔗 <b>LinkedIn:</b> <a href="https://linkedin.com/in/saikarthick" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" /> LinkedIn Profile</a></li>
+    <li>🎨 <b>ArtStation:</b> <a href="https://www.saikarthick.artstation.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="20" /> My Portfolio</a></li>
   </ul>
 </div>
 
