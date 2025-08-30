@@ -26,29 +26,17 @@ High-Fidelity Gameplay Systems: My portfolio includes custom-built gameplay syst
 Multiplayer & Live Services: I have a proven track record of creating robust multiplayer experiences using SDKs like Photon, and I have a deep understanding of render streaming and low-latency communication protocols like Web RTC and CloudXR.
 
 💡 Comprehensive Skills
-Game Engines & Programming
+Game Engines: Unity, Unreal Engine
 
-Platforms & Technologies
+Programming: C#, C++, Java, REST API Integration
 
-Full-Stack & Cloud
+Platforms: PCVR, Quest 2/3, Android, iOS, Steam
 
-Unity, Unreal Engine
+Full-Stack & Cloud: Backend (React + Express.js), AWS (Cognito, S3, Lambda, IAM), Firebase, PlayFab
 
-PCVR, Quest 2/3, Android, iOS
+Render Streaming: CloudXR, Web RTC
 
-Backend: React + Express.js
-
-C#, C++, Java
-
-AWS, Firebase, PlayFab
-
-Cloud Services: AWS (Cognito, S3, Lambda, IAM)
-
-REST API Integration
-
-CloudXR, Web RTC
-
-Render Streaming: Web RTC and CloudXR
+Tools: Git, Visual Studio, Xcode, Photon, Figma
 
 🎓 Academic & Early Career Highlights
 My foundational experience includes:
